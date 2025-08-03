@@ -24,13 +24,14 @@ exports.Getmovies = async (req, res) => {
     });
 
     res.json({
-      data: rows,
       total: count,
+      page,
       totalPages: Math.ceil(count / limit),
-      currentPage: page,
+      movies: rows,
     });
-  } catch (err) { 
-    res.status(500).json({ error: "Failed to fetch movies" });
+  } catch (error) {
+    console.error("Error fetching movies:", error);
+    res.status(500).json({ message: "Server error" });
   }
 };
 

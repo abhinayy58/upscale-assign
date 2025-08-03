@@ -1,0 +1,887 @@
+[
+  {
+    "title": "Crazy, Stupid, Love.",
+    "type": "Movie",
+    "director": "Glenn Ficarra, John Requa",
+    "budget": "$84,379,584",
+    "location": "United States",
+    "duration": "118 min",
+    "year_time": "2011"
+  },
+  {
+    "title": "Love Actually",
+    "type": "Movie",
+    "director": "Richard Curtis",
+    "budget": "$60,352,285",
+    "location": "United Kingdom, France, United States",
+    "duration": "135 min",
+    "year_time": "2003"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "type": "Movie",
+    "director": "Stanley Kubrick",
+    "budget": "$9,440,272",
+    "location": "United Kingdom, United States",
+    "duration": "95 min",
+    "year_time": "1964"
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "type": "Movie",
+    "director": "Taika Waititi",
+    "budget": "$343,256,830",
+    "location": "Australia, United States",
+    "duration": "118 min",
+    "year_time": "2022"
+  },
+  {
+    "title": "Shakespeare in Love",
+    "type": "Movie",
+    "director": "John Madden",
+    "budget": "$100,317,794",
+    "location": "United Kingdom, United States",
+    "duration": "123 min",
+    "year_time": "1998"
+  },
+  {
+    "title": "Love & Other Drugs",
+    "type": "Movie",
+    "director": "Edward Zwick",
+    "budget": "$32,367,005",
+    "location": "United States",
+    "duration": "112 min",
+    "year_time": "2010"
+  },
+  {
+    "title": "P.S. I Love You",
+    "type": "Movie",
+    "director": "Richard LaGravenese",
+    "budget": "$53,706,790",
+    "location": "United States, United Kingdom",
+    "duration": "126 min",
+    "year_time": "2007"
+  },
+  {
+    "title": "I Love You, Man",
+    "type": "Movie",
+    "director": "John Hamburg",
+    "budget": "$71,440,011",
+    "location": "United States",
+    "duration": "105 min",
+    "year_time": "2009"
+  },
+  {
+    "title": "Love, Death & Robots",
+    "type": "TV Show",
+    "director": null,
+    "location": "United States",
+    "duration": "15 min",
+    "year_time": "2019–"
+  },
+  {
+    "title": "Punch-Drunk Love",
+    "type": "Movie",
+    "director": "Paul Thomas Anderson",
+    "budget": "$17,844,216",
+    "location": "United States",
+    "duration": "95 min",
+    "year_time": "2002"
+  },
+  {
+    "title": "In the Mood for Love",
+    "type": "Movie",
+    "director": "Wong Kar-Wai",
+    "budget": "$2,738,980",
+    "location": "Hong Kong, France",
+    "duration": "98 min",
+    "year_time": "2000"
+  },
+  {
+    "title": "Love, Rosie",
+    "type": "Movie",
+    "director": "Christian Ditter",
+    "budget": "$20,431",
+    "location": "Germany, United Kingdom",
+    "duration": "102 min",
+    "year_time": "2014"
+  },
+  {
+    "title": "Love and Monsters",
+    "type": "Movie",
+    "director": "Michael Matthews",
+    "budget": "$1,070,714",
+    "location": "Canada, United States, Australia",
+    "duration": "109 min",
+    "year_time": "2020"
+  },
+  {
+    "title": "From Russia with Love",
+    "type": "Movie",
+    "director": "Terence Young",
+    "budget": "$24,796,765",
+    "location": "United Kingdom, United States, Turkey, Italy",
+    "duration": "115 min",
+    "year_time": "1963"
+  },
+  {
+    "title": "Love, Simon",
+    "type": "Movie",
+    "director": "Greg Berlanti",
+    "budget": "$40,826,341",
+    "location": "United States",
+    "duration": "110 min",
+    "year_time": "2018"
+  },
+  {
+    "title": "From Paris with Love",
+    "type": "Movie",
+    "director": "Pierre Morel",
+    "budget": "$24,077,427",
+    "location": "France, United Kingdom, United States",
+    "duration": "92 min",
+    "year_time": "2010"
+  },
+  {
+    "title": "Eat Pray Love",
+    "type": "Movie",
+    "director": "Ryan Murphy",
+    "budget": "$80,574,010",
+    "location": "United States, India, Indonesia",
+    "duration": "133 min",
+    "year_time": "2010"
+  },
+  {
+    "title": "I Love You Phillip Morris",
+    "type": "Movie",
+    "director": "Glenn Ficarra, John Requa",
+    "budget": "$2,037,459",
+    "location": "France, United States",
+    "duration": "98 min",
+    "year_time": "2009"
+  },
+  {
+    "title": "Stuck in Love.",
+    "type": "Movie",
+    "director": "Josh Boone",
+    "budget": "$81,071",
+    "location": "United States",
+    "duration": "97 min",
+    "year_time": "2012"
+  },
+  {
+    "title": "To Rome with Love",
+    "type": "Movie",
+    "director": "Woody Allen",
+    "budget": "$16,685,867",
+    "location": "United States, Italy, Spain",
+    "duration": "112 min",
+    "year_time": "2012"
+  },
+  {
+    "title": "Love Me If You Dare",
+    "type": "Movie",
+    "director": "Yann Samuell",
+    "budget": "$553,504",
+    "location": "France, Belgium",
+    "duration": "93 min",
+    "year_time": "2003"
+  },
+  {
+    "title": "A Lot Like Love",
+    "type": "Movie",
+    "director": "Nigel Cole",
+    "budget": "$21,845,719",
+    "location": "United States",
+    "duration": "107 min",
+    "year_time": "2005"
+  },
+  {
+    "title": "Love",
+    "type": "Movie",
+    "director": "Gaspar Noé",
+    "budget": "$249,083",
+    "location": "France, Belgium, Brazil",
+    "duration": "135 min",
+    "year_time": "2015"
+  },
+  {
+    "title": "Love Hard",
+    "type": "Movie",
+    "director": "Hernán Jiménez",
+    "budget": null,
+    "location": "United States",
+    "duration": "104 min",
+    "year_time": "2021"
+  },
+  {
+    "title": "Wristcutters: A Love Story",
+    "type": "Movie",
+    "director": "Goran Dukic",
+    "budget": "$446,165",
+    "location": "United States, United Kingdom",
+    "duration": "88 min",
+    "year_time": "2006"
+  },
+  {
+    "title": "Love Lies Bleeding",
+    "type": "Movie",
+    "director": "Rose Glass",
+    "budget": "$8,335,797",
+    "location": "United Kingdom, United States",
+    "duration": "104 min",
+    "year_time": "2024"
+  },
+  {
+    "title": "Show Me Love",
+    "type": "Movie",
+    "director": "Lukas Moodysson",
+    "budget": "$169,331",
+    "location": "Sweden, Denmark",
+    "duration": "89 min",
+    "year_time": "1998"
+  },
+  {
+    "title": "The Love Guru",
+    "type": "Movie",
+    "director": "Marco Schnabel",
+    "budget": "$32,235,793",
+    "location": "United Kingdom, Germany, United States",
+    "duration": "87 min",
+    "year_time": "2008"
+  },
+  {
+    "title": "New York, I Love You",
+    "type": "Movie",
+    "director": "Fatih Akin, Yvan Attal, Randall Balsmeyer",
+    "budget": "$1,588,015",
+    "location": "United States, Bahrain",
+    "duration": "103 min",
+    "year_time": "2008"
+  },
+  {
+    "title": "Endless Love",
+    "type": "Movie",
+    "director": "Shana Feste",
+    "budget": "$23,438,250",
+    "location": "United States",
+    "duration": "104 min",
+    "year_time": "2014"
+  },
+  {
+    "title": "To All the Boys: P.S. I Still Love You",
+    "type": "Movie",
+    "director": "Michael Fimognari",
+    "budget": null,
+    "location": "United States",
+    "duration": "101 min",
+    "year_time": "2020"
+  },
+  {
+    "title": "Love",
+    "type": "TV Show",
+    "director": null,
+    "location": "United States",
+    "duration": "50 min",
+    "year_time": "2016–2018"
+  },
+  {
+    "title": "Sea of Love",
+    "type": "Movie",
+    "director": "Harold Becker",
+    "budget": "$58,571,513",
+    "location": "United States",
+    "duration": "113 min",
+    "year_time": "1989"
+  },
+  {
+    "title": "Down with Love",
+    "type": "Movie",
+    "director": "Peyton Reed",
+    "budget": "$20,305,251",
+    "location": "Germany, United States",
+    "duration": "101 min",
+    "year_time": "2003"
+  },
+  {
+    "title": "The One I Love",
+    "type": "Movie",
+    "director": "Charlie McDowell",
+    "budget": "$513,447",
+    "location": "United States",
+    "duration": "91 min",
+    "year_time": "2014"
+  },
+  {
+    "title": "American Pie Presents: The Book of Love",
+    "type": "Movie",
+    "director": "John Putch",
+    "budget": null,
+    "location": "USA",
+    "duration": "93 min",
+    "year_time": "2009"
+  },
+  {
+    "title": "Love & Mercy",
+    "type": "Movie",
+    "director": "Bill Pohlad",
+    "budget": "$12,551,031",
+    "location": "United States",
+    "duration": "121 min",
+    "year_time": "2014"
+  },
+  {
+    "title": "Capitalism: A Love Story",
+    "type": "Movie",
+    "director": "Michael Moore",
+    "budget": "$14,363,397",
+    "location": "United States",
+    "duration": "127 min",
+    "year_time": "2009"
+  },
+  {
+    "title": "Can't Buy Me Love",
+    "type": "Movie",
+    "director": "Steve Rash",
+    "budget": "$31,623,833",
+    "location": "United States, Indonesia",
+    "duration": "94 min",
+    "year_time": "1987"
+  },
+  {
+    "title": "Love & Death",
+    "type": "TV Show",
+    "director": null,
+    "location": "United States",
+    "duration": null,
+    "year_time": "2023"
+  },
+  {
+    "title": "Love and Death",
+    "type": "Movie",
+    "director": "Woody Allen",
+    "budget": "$20,123,742",
+    "location": "United States",
+    "duration": "85 min",
+    "year_time": "1975"
+  },
+  {
+    "title": "Everyone Says I Love You",
+    "type": "Movie",
+    "director": "Woody Allen",
+    "budget": "$9,759,200",
+    "location": "United States",
+    "duration": "101 min",
+    "year_time": "1996"
+  },
+  {
+    "title": "Love at First Sight",
+    "type": "Movie",
+    "director": "Vanessa Caswill",
+    "budget": null,
+    "location": "United States, United Kingdom",
+    "duration": "91 min",
+    "year_time": "2023"
+  },
+  {
+    "title": "For Love of the Game",
+    "type": "Movie",
+    "director": "Sam Raimi",
+    "budget": "$35,188,640",
+    "location": "United States",
+    "duration": "137 min",
+    "year_time": "1999"
+  },
+  {
+    "title": "Love Story",
+    "type": "Movie",
+    "director": "Arthur Hiller",
+    "budget": "$106,550,690",
+    "location": "United States",
+    "duration": "100 min",
+    "year_time": "1970"
+  },
+  {
+    "title": "I Love You, Beth Cooper",
+    "type": "Movie",
+    "director": "Chris Columbus",
+    "budget": "$14,800,725",
+    "location": "United States, Canada, United Kingdom",
+    "duration": "102 min",
+    "year_time": "2009"
+  },
+  {
+    "title": "Modern Love",
+    "type": "TV Show",
+    "director": null,
+    "location": "United States",
+    "duration": "32 min",
+    "year_time": "2019–2021"
+  },
+  {
+    "title": "All the Boys Love Mandy Lane",
+    "type": "Movie",
+    "director": "Jonathan Levine",
+    "budget": null,
+    "location": "United States",
+    "duration": "90 min",
+    "year_time": "2006"
+  },
+  {
+    "title": "Bob Marley: One Love",
+    "type": "Movie",
+    "director": "Reinaldo Marcus Green",
+    "budget": "$96,981,216",
+    "location": "United States",
+    "duration": "107 min",
+    "year_time": "2024"
+  },
+  {
+    "title": "Love Happens",
+    "type": "Movie",
+    "director": "Brandon Camp",
+    "budget": "$22,965,110",
+    "location": "United States, Canada, United Kingdom",
+    "duration": "109 min",
+    "year_time": "2009"
+  },
+  {
+    "title": "Must Love Dogs",
+    "type": "Movie",
+    "director": "Gary David Goldberg",
+    "budget": "$43,894,863",
+    "location": "United States",
+    "duration": "98 min",
+    "year_time": "2005"
+  },
+  {
+    "title": "I Love Lucy",
+    "type": "TV Show",
+    "director": null,
+    "location": "United States",
+    "duration": "30 min",
+    "year_time": "1951–1957"
+  },
+  {
+    "title": "Love the Coopers",
+    "type": "Movie",
+    "director": "Jessie Nelson",
+    "budget": "$26,302,731",
+    "location": "United States",
+    "duration": "107 min",
+    "year_time": "2015"
+  },
+  {
+    "title": "A Love Song for Bobby Long",
+    "type": "Movie",
+    "director": "Shainee Gabel",
+    "budget": "$164,308",
+    "location": "United States",
+    "duration": "119 min",
+    "year_time": "2004"
+  },
+  {
+    "title": "A Short Film About Love",
+    "type": "Movie",
+    "director": "Krzysztof Kieslowski",
+    "budget": null,
+    "location": "Poland",
+    "duration": "87 min",
+    "year_time": "1988"
+  },
+  {
+    "title": "Love & Friendship",
+    "type": "Movie",
+    "director": "Whit Stillman",
+    "budget": "$14,016,568",
+    "location": "United Kingdom, Ireland, France, Netherlands",
+    "duration": "90 min",
+    "year_time": "2016"
+  },
+  {
+    "title": "Seeking True Love",
+    "type": "Movie",
+    "director": "Ashwiny Iyer Tiwari",
+    "budget": null,
+    "location": "India",
+    "duration": "116 min",
+    "year_time": "2017"
+  },
+  {
+    "title": "Love at First Sight",
+    "type": "Movie",
+    "director": "Vanessa Caswill",
+    "budget": null,
+    "location": "United Kingdom, United States",
+    "duration": "91 min",
+    "year_time": "2023"
+  },
+  {
+    "title": "Addicted to Love",
+    "type": "Movie",
+    "director": "Griffin Dunne",
+    "budget": "$34,673,095",
+    "location": "United States",
+    "duration": "100 min",
+    "year_time": "1997"
+  },
+  {
+    "title": "What's Love Got to Do with It",
+    "type": "Movie",
+    "director": "Brian Gibson",
+    "budget": "$39,100,956",
+    "location": "United States",
+    "duration": "118 min",
+    "year_time": "1993"
+  },
+  {
+    "title": "Love Doesn't Understand Words",
+    "type": "TV Show",
+    "director": null,
+    "location": "Turkey",
+    "duration": "68 min",
+    "year_time": "2016–2017"
+  },
+  {
+    "title": "Love & Basketball",
+    "type": "Movie",
+    "director": "Gina Prince-Bythewood",
+    "budget": "$27,475,093",
+    "location": "United States",
+    "duration": "124 min",
+    "year_time": "2000"
+  },
+  {
+    "title": "Kaguya-sama: Love is War",
+    "type": "TV Show",
+    "director": null,
+    "location": "Japan",
+    "duration": "24 min",
+    "year_time": "2019–2023"
+  },
+  {
+    "title": "I Am Love",
+    "type": "Movie",
+    "director": "Luca Guadagnino",
+    "budget": "$5,005,465",
+    "location": "Italy",
+    "duration": "120 min",
+    "year_time": "2009"
+  },
+  {
+    "title": "Love in the Time of Cholera",
+    "type": "Movie",
+    "director": "Mike Newell",
+    "budget": "$4,607,608",
+    "location": "United States, Mexico, United Kingdom, Colombia",
+    "duration": "139 min",
+    "year_time": "2007"
+  },
+  {
+    "title": "Big Love",
+    "type": "TV Show",
+    "director": null,
+    "location": "United States",
+    "duration": "32S min",
+    "year_time": "2006–2011"
+  },
+  {
+    "title": "Toilet: A Love Story",
+    "type": "Movie",
+    "director": "Shree Narayan Singh",
+    "budget": "$1,830,715",
+    "location": "India",
+    "duration": "155 min",
+    "year_time": "2017"
+  },
+  {
+    "title": "Love, Victor",
+    "type": "TV Show",
+    "director": null,
+    "location": "United States",
+    "duration": "2 min",
+    "year_time": "2020–2022"
+  },
+  {
+    "title": "Falling Inn Love",
+    "type": "Movie",
+    "director": "Roger Kumble",
+    "budget": null,
+    "location": "United States",
+    "duration": "98 min",
+    "year_time": "2019"
+  },
+  {
+    "title": "If Anything Happens I Love You",
+    "type": "Movie",
+    "director": "Michael Govier, Will McCormack",
+    "budget": null,
+    "location": "United States",
+    "duration": "13 min",
+    "year_time": "2020"
+  },
+  {
+    "title": "Love Wedding Repeat",
+    "type": "Movie",
+    "director": "Dean Craig",
+    "budget": null,
+    "location": "United Kingdom, Italy",
+    "duration": "100 min",
+    "year_time": "2020"
+  },
+  {
+    "title": "Love Is in the Air",
+    "type": "TV Show",
+    "director": null,
+    "location": "Turkey",
+    "duration": "1 min",
+    "year_time": "2020–2021"
+  },
+  {
+    "title": "The Love Witch",
+    "type": "Movie",
+    "director": "Anna Biller",
+    "budget": "$228,894",
+    "location": "United States",
+    "duration": "120 min",
+    "year_time": "2016"
+  },
+  {
+    "title": "My Summer of Love",
+    "type": "Movie",
+    "director": "Pawel Pawlikowski",
+    "budget": "$1,000,915",
+    "location": "United Kingdom",
+    "duration": "86 min",
+    "year_time": "2004"
+  },
+  {
+    "title": "To Sir, with Love",
+    "type": "Movie",
+    "director": "James Clavell",
+    "budget": null,
+    "location": "United Kingdom",
+    "duration": "105 min",
+    "year_time": "1967"
+  },
+  {
+    "title": "Love Likes Coincidences",
+    "type": "Movie",
+    "director": "Ömer Faruk Sorak",
+    "budget": null,
+    "location": "Turkey",
+    "duration": "118 min",
+    "year_time": "2011"
+  },
+  {
+    "title": "Love, Guaranteed",
+    "type": "Movie",
+    "director": "Mark Steven Johnson",
+    "budget": null,
+    "location": "United States",
+    "duration": "90 min",
+    "year_time": "2020"
+  },
+  {
+    "title": "The Edge of Love",
+    "type": "Movie",
+    "director": "John Maybury",
+    "budget": null,
+    "location": "United Kingdom",
+    "duration": "110 min",
+    "year_time": "2008"
+  },
+  {
+    "title": "The Consequences of Love",
+    "type": "Movie",
+    "director": "Paolo Sorrentino",
+    "budget": null,
+    "location": "Italy",
+    "duration": "100 min",
+    "year_time": "2004"
+  },
+  {
+    "title": "The Love Bug",
+    "type": "Movie",
+    "director": "Robert Stevenson",
+    "budget": "$51,264,000",
+    "location": "United States",
+    "duration": "108 min",
+    "year_time": "1968"
+  },
+  {
+    "title": "My Love from Another Star",
+    "type": "TV Show",
+    "director": null,
+    "location": "South Korea",
+    "duration": "26S min",
+    "year_time": "2013–2014"
+  },
+  {
+    "title": "Redeeming Love",
+    "type": "Movie",
+    "director": "D.J. Caruso",
+    "budget": "$9,214,020",
+    "location": "United States",
+    "duration": "134 min",
+    "year_time": "2022"
+  },
+  {
+    "title": "Love 101",
+    "type": "TV Show",
+    "director": null,
+    "location": "Turkey",
+    "duration": "40 min",
+    "year_time": "2020–2021"
+  },
+  {
+    "title": "I Think I Love My Wife",
+    "type": "Movie",
+    "director": "Chris Rock",
+    "budget": "$12,550,605",
+    "location": "India, United States",
+    "duration": "90 min",
+    "year_time": "2007"
+  },
+  {
+    "title": "Love in the Afternoon",
+    "type": "Movie",
+    "director": "Billy Wilder",
+    "budget": null,
+    "location": "United States",
+    "duration": "130 min",
+    "year_time": "1957"
+  },
+  {
+    "title": "Love Again",
+    "type": "Movie",
+    "director": "Jim Strouse",
+    "budget": "$6,230,837",
+    "location": "United States",
+    "duration": "104 min",
+    "year_time": "2023"
+  },
+  {
+    "title": "Feast of Love",
+    "type": "Movie",
+    "director": "Robert Benton",
+    "budget": "$3,511,074",
+    "location": "United States",
+    "duration": "97 min",
+    "year_time": "2007"
+  },
+  {
+    "title": "Love Aaj Kal",
+    "type": "Movie",
+    "director": "Imtiaz Ali",
+    "budget": "$2,430,083",
+    "location": "India",
+    "duration": "128 min",
+    "year_time": "2009"
+  },
+  {
+    "title": "Love Life",
+    "type": "TV Show",
+    "director": null,
+    "location": "United States",
+    "duration": null,
+    "year_time": "2020–2021"
+  },
+  {
+    "title": "Love Exposure",
+    "type": "Movie",
+    "director": "Sion Sono",
+    "budget": null,
+    "location": "Japan",
+    "duration": "237 min",
+    "year_time": "2008"
+  },
+  {
+    "title": "Modern Love Mumbai",
+    "type": "TV Show",
+    "director": null,
+    "location": "India",
+    "duration": "2 min",
+    "year_time": "2022–"
+  },
+  {
+    "title": "The Love Punch",
+    "type": "Movie",
+    "director": "Joel Hopkins",
+    "budget": "$266,588",
+    "location": "France, United Kingdom, United States",
+    "duration": "94 min",
+    "year_time": "2013"
+  },
+  {
+    "title": "Falling in Love",
+    "type": "Movie",
+    "director": "Ulu Grosbard",
+    "budget": "$11,129,057",
+    "location": "United States",
+    "duration": "106 min",
+    "year_time": "1984"
+  },
+  {
+    "title": "For Love or Money",
+    "type": "Movie",
+    "director": "Barry Sonnenfeld",
+    "budget": "$11,146,270",
+    "location": "United States",
+    "duration": "96 min",
+    "year_time": "1993"
+  },
+  {
+    "title": "Love Today",
+    "type": "Movie",
+    "director": "Pradeep Ranganathan",
+    "budget": null,
+    "location": "India",
+    "duration": "154 min",
+    "year_time": "2022"
+  },
+  {
+    "title": "Forbidden Love",
+    "type": "TV Show",
+    "director": null,
+    "location": "Turkey",
+    "duration": "2 min",
+    "year_time": "2008–2010"
+  },
+  {
+    "title": "I Love You to Death",
+    "type": "Movie",
+    "director": "Lawrence Kasdan",
+    "budget": "$16,186,793",
+    "location": "United States",
+    "duration": "97 min",
+    "year_time": "1990"
+  },
+  {
+    "title": "Fire of Love",
+    "type": "Movie",
+    "director": "Sara Dosa",
+    "budget": "$1,120,412",
+    "location": "Canada, United States",
+    "duration": "98 min",
+    "year_time": "2022"
+  },
+  {
+    "title": "Love Potion No. 9",
+    "type": "Movie",
+    "director": "Dale Launer",
+    "budget": "$754,935",
+    "location": "United States",
+    "duration": "92 min",
+    "year_time": "1992"
+  },
+  {
+    "title": "Love Is All You Need",
+    "type": "Movie",
+    "director": "Susanne Bier",
+    "budget": "$1,631,709",
+    "location": "Denmark, Sweden, Italy, France, Germany",
+    "duration": "116 min",
+    "year_time": "2012"
+  }
+]

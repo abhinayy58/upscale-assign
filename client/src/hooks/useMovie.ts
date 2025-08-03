@@ -14,7 +14,7 @@ export const useInfiniteMovies = () => {
     setLoading(true);
     try {
       const res = await fetchMovies(page, 10);
-      setMovies((prev) => [...prev, ...res.data]);
+      setMovies((prev) => [...prev, ...res.movies]);
       setHasMore(page < res.totalPages);
     } catch (err) {
       console.error("Failed to load movies", err);

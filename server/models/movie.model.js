@@ -1,8 +1,9 @@
 const { DataTypes } = require("sequelize");
 const sequelize = require("../config/db");
+const { uniq } = require("lodash");
 
 const movie = sequelize.define("movie", {
-  title: { type: DataTypes.STRING, allowNull: false },
+  title: { type: DataTypes.STRING, allowNull: false,unique: true },
   type: { type: DataTypes.ENUM("Movie", "TV Show"), allowNull: false },
   director: DataTypes.STRING,
   budget: DataTypes.STRING,
@@ -12,4 +13,4 @@ const movie = sequelize.define("movie", {
 });
 
 module.exports = movie;
- 
+  
